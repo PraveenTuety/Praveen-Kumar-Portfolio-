@@ -41,13 +41,13 @@ I'm an **iOS Developer** passionate about building elegant and functional mobile
 ## 🛠️ Skills  
 
 ### Programming & Tools  
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-<img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" title="Swift"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/xcode.png" alt="Xcode" title="Xcode"/>
-<img src="https://img.icons8.com/ios/50/000000/macbook.png" alt="macOS" title="macOS Development"/>
-<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
-<img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>
-<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Xcode-blue?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/MacOS-gray?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>  
 
 ---
