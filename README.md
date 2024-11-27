@@ -1,10 +1,12 @@
 # Hi, I'm Praveen Kumar! 👋  
 
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F79C22&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+passionate+iOS+Developer!;Turning+ideas+into+beautiful+apps!)  
+
 I'm an **iOS Developer** passionate about building elegant and functional mobile applications. With a background in **Computer Science and Engineering** and **iOS development**, I enjoy solving problems and turning ideas into apps.
 
 ---
 
-## 🎨 About Me
+## 🎨 About Me  
 
 - 🌱 Currently learning **advanced iOS development**.  
 - 🚀 6+ months of professional experience in iOS development.  
@@ -42,24 +44,11 @@ I'm an **iOS Developer** passionate about building elegant and functional mobile
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 <img src="https://img.icons8.com/color/48/000000/swift.png" alt="Swift" title="Swift"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/xcode.png" alt="Xcode" title="Xcode"/>
+<img src="https://img.icons8.com/ios/50/000000/macbook.png" alt="macOS" title="macOS Development"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
 <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub"/>
 <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" title="Postman"/>
 </div>  
-
-### Other Skills  
-- Problem-solving  
-- Team Collaboration  
-- Agile Methodology  
-
----
-
-## 💼 Work Experience  
-
-- **iOS Developer**  
-  **Toqsoft Technologies, Bengaluru**  
-  - **Duration**: May 2024 – Present (7 months)  
-  - Working on building and maintaining iOS applications with a focus on high performance and user-friendly interfaces.  
 
 ---
 
@@ -79,11 +68,27 @@ A restaurant discovery app with:
 
 ---
 
+## 💼 Work Experience  
+
+- **iOS Developer**  
+  **Toqsoft Technologies, Bengaluru**  
+  - **Duration**: May 2024 – Present (7 months)  
+  - Working on building and maintaining iOS applications with a focus on high performance and user-friendly interfaces.  
+
+---
+
 ## 📫 Contact Me  
 
 - **Email**: [praveenteddy1515@gmail.com](mailto:praveenteddy1515@gmail.com)  
 - **LinkedIn**: [Praveen Kumar](https://www.linkedin.com/in/praveen-kumar-7243b5302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - **GitHub**: [Praveen-Kumar-Portfolio](https://github.com/Godpraveen/Praveen-Kumar-Portfolio-)  
+
+---
+
+## 🎥 Fun Animations  
+
+### Swift & Xcode Animation  
+![Swift Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ---
 
